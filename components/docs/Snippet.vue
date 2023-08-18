@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const snippets = `
 <SidebarItemSection name="Apps">
-  <SidebarItem title="All Apps" to="/">
+  <SidebarItem title="Ya" to="/">
      <AllAppIcon />
    </SidebarItem>
    <SidebarItem title="Updates" to="/admin/updates">

@@ -61,7 +61,7 @@ defineProps({
       </div>
       <img
         class="w-24 object-cover object-center md:w-44"
-        src="https://assets.website-files.com/6364b6fd26e298b11fb9391f/6364b6fd26e2988372b93da9_3d-digital-tb.png"
+        src="https://assets.codepen.io/3364143/glass.png"
         alt=""
       />
     </div>
@@ -92,14 +92,7 @@ defineProps({
           </svg>
           Photoshop
         </div>
-        <div class="mx-auto flex">
-          <span class="relative text-base">
-            <span
-              class="absolute left--2 top-1 h-2 w-2 rounded-full bg-green-400"
-            />
-            <span class="pl-4">Updated</span>
-          </span>
-        </div>
+        <div class="mx-auto flex"></div>
         <div class="ml-auto flex">
           <div>
             <button
@@ -132,14 +125,7 @@ defineProps({
           </svg>
           Illustrator
         </div>
-        <div class="mx-auto flex">
-          <span class="relative text-base">
-            <span
-              class="absolute left--2 top-1 h-2 w-2 rounded-full bg-indigo-400"
-            />
-            <span class="pl-4">Updated</span>
-          </span>
-        </div>
+        <div class="mx-auto flex"></div>
         <div class="ml-auto flex">
           <div>
             <button
@@ -172,14 +158,7 @@ defineProps({
           </svg>
           After Effects
         </div>
-        <div class="mx-auto flex">
-          <span class="relative text-base">
-            <span
-              class="absolute left--2 top-1 h-2 w-2 rounded-full bg-green-400"
-            />
-            <span class="pl-4">Updated</span>
-          </span>
-        </div>
+
         <div class="ml-auto flex">
           <div>
             <button

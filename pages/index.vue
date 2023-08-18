@@ -1,3 +1,1 @@
-<template>
-  <Content title="All Apps" />
-</template>
+<template><Content title="&nbsp;&nbsp;&nbsp;Hey you!" /></template>

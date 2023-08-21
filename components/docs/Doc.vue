@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import Snippet from "./Snippet.vue";
-import TsIcon from "./icons/TsIcon.vue";
+// import TsIcon from "./icons/TsIcon.vue";
 import VueIcon from "./icons/VueIcon.vue";
 import FolderIcon from "./icons/FolderIcon.vue";
 </script>
@@ -79,7 +79,7 @@ import FolderIcon from "./icons/FolderIcon.vue";
           <span class="pl-2">TopBar.vue</span>
         </div>
         <div class="mb-3 flex pl-11">
-          <TsIcon />
+          <!-- <TsIcon /> -->
           <span class="pl-3">store.ts</span>
         </div>
       </div>
@@ -162,7 +162,7 @@ import FolderIcon from "./icons/FolderIcon.vue";
       </div>
 
       <div class="mt-8 flex flex-wrap md:flex-nowrap">
-        <TsIcon class="h-5 w-5" />
+        <!-- <TsIcon class="h-5 w-5" /> -->
         <span class="pl-3 font-medium">store.ts</span> :
         <p class="pl-1">
           where all states for handling opening and closing sidebar are defined
